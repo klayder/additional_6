@@ -34,5 +34,5 @@ for(let i=0;i<tempArr.length;i++){
       k+=typeFact;
     }
 }
-return conterFive>conterTwo?conterFive:conterTwo;
+return conterFive<conterTwo?conterFive:conterTwo;
 }
